@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 720b3b85871af5c4184a9ba72df2608b
+timeCreated: 1611642121
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: man-1_0
+    21300002: man-1_1
+    21300004: man-1_2
+    21300006: man-1_3
+    21300008: man-1_4
+    21300010: man-1_5
+    21300012: man-1_6
+    21300014: man-1_7
+    21300016: man-1_8
+    21300018: man-1_9
+    21300020: man-1_10
+    21300022: man-1_11
+    21300024: man-1_12
+    21300026: man-1_13
+    21300028: man-1_14
+    21300030: man-1_15
+    21300032: man-1_16
+    21300034: man-1_17
+    21300036: man-1_18
+    21300038: man-1_19
+    21300040: man-1_20
+    21300042: man-1_21
+    21300044: man-1_22
+    21300046: man-1_23
+    21300048: man-1_24
+    21300050: man-1_25
+    21300052: man-1_26
+    21300054: man-1_27
+    21300056: man-1_28
+    21300058: man-1_29
+    21300060: man-1_30
+    21300062: man-1_31
+    21300064: man-1_32
+    21300066: man-1_33
+    21300068: man-1_34
+    21300070: man-1_35
+    21300072: man-1_36
+    21300074: man-1_37
+    21300076: man-1_38
+    21300078: man-1_39
+    21300080: man-1_40
+    21300082: man-1_41
+    21300084: man-1_42
+    21300086: man-1_43
+    21300088: man-1_44
+    21300090: man-1_45
+    21300092: man-1_46
+    21300094: man-1_47
+    21300096: man-1_48
+    21300098: man-1_49
+    21300100: man-1_50
+    21300102: man-1_51
+    21300104: man-1_52
+    21300106: man-1_53
+    21300108: man-1_54
+    21300110: man-1_55
+    21300112: man-1_56
+    21300114: man-1_57
+    21300116: man-1_58
+    21300118: man-1_59
+    21300120: man-1_60
+    21300122: man-1_61
+    21300124: man-1_62
+    21300126: man-1_63
+    21300128: man-1_64
+    21300130: man-1_65
+    21300132: man-1_66
+    21300134: man-1_67
+    21300136: man-1_68
+    21300138: man-1_69
+    21300140: man-1_70
+    21300142: man-1_71
+    21300144: man-1_72
+    21300146: man-1_73
+    21300148: man-1_74
+    21300150: man-1_75
+    21300152: man-1_76
+    21300154: man-1_77
+    21300156: man-1_78
+    21300158: man-1_79
+    21300160: man-1_80
+    21300162: man-1_81
+    21300164: man-1_82
+    21300166: man-1_83
+    21300168: man-1_84
+    21300170: man-1_85
+    21300172: man-1_86
+    21300174: man-1_87
+    21300176: man-1_88
+    21300178: man-1_89
+    21300180: man-1_90
+    21300182: man-1_91
+    21300184: man-1_92
+    21300186: man-1_93
+    21300188: man-1_94
+    21300190: man-1_95
+    21300192: man-1_96
+    21300194: man-1_97
+    21300196: man-1_98
+    21300198: man-1_99
+    21300200: man-1_100
+    21300202: man-1_101
+    21300204: man-1_102
+    21300206: man-1_103
+    21300208: man-1_104
+    21300210: man-1_105
+    21300212: man-1_106
+    21300214: man-1_107
+    21300216: man-1_108
+    21300218: man-1_109
+    21300220: man-1_110
+    21300222: man-1_111
+    21300224: man-1_112
+    21300226: man-1_113
+    21300228: man-1_114
+    21300230: man-1_115
+    21300232: man-1_116
+    21300234: man-1_117
+    21300236: man-1_118
+    21300238: man-1_119
+    21300240: man-1_120
+    21300242: man-1_121
+    21300244: man-1_122
+    21300246: man-1_123
+    21300248: man-1_124
+    21300250: man-1_125
+    21300252: man-1_126
+    21300254: man-1_127
+    21300256: man-1_128
+    21300258: man-1_129
+    21300260: man-1_130
+    21300262: man-1_131
+    21300264: man-1_132
+    21300266: man-1_133
+    21300268: man-1_134
+    21300270: man-1_135
+    21300272: man-1_136
+    21300274: man-1_137
+    21300276: man-1_138
+    21300278: man-1_139
+    21300280: man-1_140
+    21300282: man-1_141
+    21300284: man-1_142
+    21300286: man-1_143
+    21300288: man-1_144
+    21300290: man-1_145
+    21300292: man-1_146
+    21300294: man-1_147
+    21300296: man-1_148
+    21300298: man-1_149
+    21300300: man-1_150
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: man-1_0
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2784
+        width: 140
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: man-1_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2085
+        width: 152
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: man-1_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2079
+        width: 286
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: man-1_3
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 2079
+        width: 151
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: man-1_4
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1424
+        width: 149
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: man-1_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1426
+        width: 153
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
